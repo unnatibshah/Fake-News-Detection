@@ -20,10 +20,10 @@
 <h3 align="center">Fake News Detection</h3>
   <p align="center">
 <!--     An awesome README template to jumpstart your projects! -->
-    <br />
+<!--     <br /> -->
     <a href="https://github.com/unnatibshah/Fake-News-Detection/blob/main/Project_Report.pdf"><strong>View Report »</strong></a>
     <br />
-    <br />
+<!--     <br /> -->
 <!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
