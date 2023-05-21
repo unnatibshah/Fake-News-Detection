@@ -6,7 +6,7 @@
 <!-- <div align="center">
 
 
-  <h3 align="center">Fake News Detection</h3>
+  <h1 align="center">Fake News Detection</h1>
 
   <p align="center">
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h3 align="center">Fake News Detection</h3>
+<h1 align="center">Fake News Detection</h1>
   <p align="center">
 <!--     An awesome README template to jumpstart your projects! -->
 <!--     <br /> -->
