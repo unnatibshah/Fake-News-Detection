@@ -3,7 +3,7 @@
 
 
 <!-- PROJECT LOGO -->
-<div align="center">
+<!-- <div align="center">
 
 
   <h3 align="center">Fake News Detection</h3>
@@ -13,9 +13,24 @@
     <a href="https://github.com/unnatibshah/Fake-News-Detection/blob/main/Project_Report.pdf">View Report</a>
 
   </p>
+</div> -->
+
+<div align="center">
+
+
+  <p align="center">
+<!--     An awesome README template to jumpstart your projects! -->
+    <br />
+    <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/unnatibshah/Fake-News-Detection/blob/main/Project_Report.pdf)"><strong>View Report »</strong></a>
+    <br />
+    <br />
+<!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
+  </p>
 </div>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
